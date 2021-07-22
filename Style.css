@@ -1,0 +1,13 @@
+body{margin: 0;padding: 0}
+h1{text-align: center;color: aliceblue;margin-bottom: 0px; margin-top: 20px;font-family: sans-serif}
+.Main{background-color: #FA5858;padding-top:5px}
+.Main >div{width: 90%;margin: auto;padding-bottom: 40px;}
+.List{text-align: center}
+input[type="text"]{width: 75%;border: none;padding: 5px;font-size: 120%;padding-left: 15px}
+.Aj{width: 20%;height: 10%;padding: 5px;border: none;font-size: 120%;margin: -4px}
+.Main ul{width: 100%;margin: 0;list-style: none;padding: 0}
+.ulList li{padding: 5px; padding-left: 7%;position: relative;}
+li span{color: darkgray;top: 0; right: 0px;position: absolute;width: 4%;text-align: center;height: 66%;cursor: default;font-weight: bold;font-family: sans-serif;padding: 5px;font-size: 80%;}
+li span:last-child:hover{background-color: #FA5858;color: white;}
+.acheter{top: 0px;left: 0px;background-color: transparent;color: white;font-size: 130%;padding: 0; padding-left: 5px}
+li:hover{color: white;cursor: pointer}
